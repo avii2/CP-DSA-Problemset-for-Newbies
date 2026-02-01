@@ -29,12 +29,6 @@ Example:
 
 
 
-## Quick links
-- Codeforces: `Codeforces/`
-- AtCoder: `Atcoder/`
-- LeetCode: `Leetcode/`
-- CodeChef: `codechef/`
-
 ## Status
  New problems are added regularly.
 
