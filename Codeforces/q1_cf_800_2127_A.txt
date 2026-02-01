@@ -1,0 +1,13 @@
+Problem: Codeforces 2127A - Mix Mex Max
+
+Rating: 800
+Tags: constructive algorithms; greedy; math
+Source: https://codeforces.com/problemset/problem/2127/A
+Resources : https://youtu.be/7mx2BasNK0w?si=kF-C3qE_lqjft4-I
+
+Statement :
+
+You are given an array a consisting of n non-negative integers. However, some elements of a are missing, represented by -1.
+
+Summary :
+You have an array a of length n where some entries are -1 (missing). The array is called good if MEX(a) equals MIN(a) + MAX(a). You need to fill each -1 with a non-negative integer so the array becomes good, or report that it is impossible. There are t test cases. Input gives n and the array for each test. Output YES if you can fill the missing values to make the array good, otherwise NO.
